@@ -1,3 +1,7 @@
+# Current Development
+Created pn 11/11/2022 running through issues 
+initialize git already.
+
 # StoreProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
